@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+https://www.itpro.com/software/development/ai-coding-is-taking-off-in-the-us-but-developers-in-another-country-are-catching-up-fast
+
+I thought the article's discussion about how AI use by developers differs across country. I think it makes sense that use would be highest in the US given that the most well known LLMs started here, and lowest in countries with restrictions. The article also discusses how less experienced developers appear to use AI more but have less gains. This is interesting to me because I can apply this insight to the beginning of my own career. I think if early career developers rely too much on AI, they will stunt their own learning and understanding. 
